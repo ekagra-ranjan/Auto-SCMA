@@ -11,7 +11,9 @@ Our experimental results show that Auto-SCMA outperforms previous methods includ
 
 
 ![image](https://user-images.githubusercontent.com/3116519/118371488-74a62980-b5ca-11eb-84ea-e56c823f744e.png)
-<img src="https://user-images.githubusercontent.com/3116519/118371853-0febce80-b5cc-11eb-8d50-c5b2086eb649.png" width="800" class="center">
+<p align="center">
+<img src="https://user-images.githubusercontent.com/3116519/118371853-0febce80-b5cc-11eb-8d50-c5b2086eb649.png" width="700" >
+</p>
 
 <br>
 
