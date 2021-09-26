@@ -1,4 +1,6 @@
-# Auto-SCMA (Sparse Code Multiple Access) Python-Pytorch Implementation
+<h2 align="center">
+Auto-SCMA (Sparse Code Multiple Access) Python-Pytorch Implementation
+</h1>
 
 <p align="center">
   <a href="https://www.iitk.ac.in/ncc2021/"><img src="http://img.shields.io/badge/NCC-2021-4b44ce.svg"></a>
