@@ -1,6 +1,10 @@
 # Auto-SCMA (Sparse Code Multiple Access) Python-Pytorch Implementation
 
-[![Conference](http://img.shields.io/badge/NCC-2021-4b44ce.svg)](https://www.iitk.ac.in/ncc2021/) [![Paper](http://img.shields.io/badge/Paper-B31B1B.svg)](https://ieeexplore.ieee.org/document/9530173?fbclid=IwAR0-bSnIyp5nzRX4MS5fD_GCmRDDyXHZ9o_oiI8sgZQ0ACXeEmKyhpSL2Ck)
+<p align="center">
+  <a href="https://www.iitk.ac.in/ncc2021/"><img src="http://img.shields.io/badge/NCC-2021-4b44ce.svg"></a>
+  <a href="https://ieeexplore.ieee.org/document/9530173?fbclid=IwAR0-bSnIyp5nzRX4MS5fD_GCmRDDyXHZ9o_oiI8sgZQ0ACXeEmKyhpSL2Ck"><img src="http://img.shields.io/badge/Paper-IEEE_Explore-B31B1B.svg"></a>
+  <a href="https://github.com/ekagra-ranjan/ekagra-ranjan.github.io/blob/main/assets/resume/publications/slides/Auto-SCMA-ppt.pptx?raw=true"><img src="http://img.shields.io/badge/Slides-PDF-orange.svg"></a>
+</p>
 
 Source code for [NCC 2021](https://www.iitk.ac.in/ncc2021/) paper: [**Auto-SCMA: Learning Codebook for Sparse Code Multiple Access using Machine Learning**](https://ieeexplore.ieee.org/document/9530173?fbclid=IwAR0-bSnIyp5nzRX4MS5fD_GCmRDDyXHZ9o_oiI8sgZQ0ACXeEmKyhpSL2Ck)
 
