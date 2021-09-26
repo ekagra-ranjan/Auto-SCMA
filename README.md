@@ -47,3 +47,17 @@ The repo contains Jupyter notebooks that can be viewed and run online via Google
 * `SCMA_Python.ipynb` - Colab notebook for SCMA written in Python. It uses Pytorch to leverage GPU for faster runtime. `is_fading` and `is_noise` can be used to toggle Rayleigh fading noise and AWGN noise respectively. The notebook contains two popular handcrafted SCMA codebooks.
 * `AWGN_Fast_DiffSCMA_Shared.ipynb` - Colab notebook for Auto-SCMA on AWGN channel
 * `Fading_Fast_DiffSCMA_Shared.ipynb` - Colab notebook for Auto-SCMA on Rayleigh fading channel  
+
+## Citation
+Please cite the following paper if you found the paper or the code useful in your work.
+```bibtex
+@INPROCEEDINGS{9530173,
+  author={Ranjan, Ekagra and Vikram, Ameya and Rajesh, A. and Bora, Prabin Kumar},
+  booktitle={2021 National Conference on Communications (NCC)}, 
+  title={Auto-SCMA: Learning Codebook for Sparse Code Multiple Access using Machine Learning}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-5},
+  doi={10.1109/NCC52529.2021.9530173}}
+```
