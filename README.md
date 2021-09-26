@@ -41,7 +41,7 @@ Our experimental results show that Auto-SCMA outperforms previous methods includ
 </p>
 
 ## How to Use
-The repo contains Jupyter notebooks which can be opened and run online via Google Colab using the colab button that appears in Github.
+The repo contains Jupyter notebooks that can be viewed and run online via Google Colab using the colab button that appears in Github.
 
 ## File Description
 * `SCMA_Python.ipynb` - Colab notebook for SCMA written in Python. It uses Pytorch to leverage GPU for faster runtime. `is_fading` and `is_noise` can be used to toggle Rayleigh fading noise and AWGN noise respectively. The notebook contains two popular handcrafted SCMA codebooks.
